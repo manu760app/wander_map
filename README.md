@@ -1,7 +1,7 @@
 Wander
 =======================================
+## Skills acquired
 
-##Skills acquired
 1. Integrate a Google Map in your app.
 2. Display different map types.
 3. Style the Google Map.
